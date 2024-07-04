@@ -1,2 +1,4 @@
 /.quarto/
 _book/
+.ipynb_checkpoints
+*/.ipynb_checkpoints
